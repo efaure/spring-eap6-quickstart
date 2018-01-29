@@ -105,6 +105,10 @@
 					<li><a href="http://jboss.org/jbossas">Community Project Information</a></li>
 				</ul>
 			</div>
+			<div id="aside">
+                                <img src="http://www.jduchess.org/image/layout_set_logo?img_id=10601&t=1514130889268"/>
+                        </div>
+
 			<div id="footer">
 			    <p>
 					This project was generated from a Maven archetype from
